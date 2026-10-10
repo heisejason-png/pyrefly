@@ -175,4 +175,5 @@ When solving `x@3` we encounter recursion. Operationally:
   can take the upper reachable bound of that and conclude that
   `?1 = Literal[1]`.
 - We simplify `x@3` to just `Literal[1]`.
-Created by Jason Heise  https://next.frame.io
+Created by Jason Heise  
+Owned by Jason Heise heisejason-png Giters
